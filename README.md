@@ -1,2 +1,6 @@
-# Farming-made-easy
-Agriculture is the primary mainstay of the economy in our country. In recent years because of uncertain  trends in climate and other fluctuations in the price trends, the price of the crop has varied to a larger level.  Farmers remain oblivious of these uncertainties, which spoils the crops and causes massive loss. 
+# Farming-Made-Easy-using-Machine-Learning
+
+The proposed framework targets foreseeing the crops price by learning the previous information of the prices and weather conditions Aims at reducing the cost incurred by the farmer to the end-user. This system also incorporates other modules like weather forecast, crop recommendation, fertilizer recommendation with nearby shops location, chat portal, and guides in local languages.
+Video link: https://www.youtube.com/watch?v=U6n18iIiomo
+
+Research Paper Published: https://ieeexplore.ieee.org/document/9456351
